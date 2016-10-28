@@ -1,5 +1,3 @@
-
-
 var mong = require('mongoose')
 var schem = mong.Schema
 
