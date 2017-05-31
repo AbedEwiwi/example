@@ -19,3 +19,4 @@ var loginScem = schem({
 var table = mong.model('hackthon',loginScem,"loginTable")
 module.exports.loginTable = loginTable
 
+var test = "ok";
